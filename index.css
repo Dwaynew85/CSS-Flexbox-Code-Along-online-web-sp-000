@@ -43,6 +43,10 @@ footer {
   background-color: #FCF2EC;
 }
 
+.individual {
+  align-self: flex-end;
+}
+
 .setWidth {
   flex-basis: 100px;
   flex-grow: 1;
